@@ -50,7 +50,7 @@
   main {
     text-align: center;
     padding: 1em;
-    max-width: 240px;
+    max-width: none;
     margin: 0 auto;
 	background: #313131;
 	color: #d0d0d0;
@@ -64,9 +64,4 @@
     font-weight: 100;
   }
 
-  @media (min-width: 640px) {
-    main {
-      max-width: none;
-    }
-  }
 </style>
