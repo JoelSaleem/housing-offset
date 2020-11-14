@@ -47,11 +47,16 @@
 </main>
 
 <style>
+  body {
+	margin: 0;
+    text-align: center;
+  }
+
   main {
     text-align: center;
     padding: 1em;
     max-width: none;
-    margin: 0 auto;
+    margin: 0;
 	background: #313131;
 	color: #d0d0d0;
     height: 100%;

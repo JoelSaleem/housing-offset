@@ -731,12 +731,12 @@ var app = (function () {
     			div = element("div");
     			t10 = text("tot: ");
     			t11 = text(t11_value);
-    			attr_dev(h1, "class", "svelte-rb8mum");
+    			attr_dev(h1, "class", "svelte-w62sd4");
     			add_location(h1, file$2, 30, 2, 580);
     			add_location(h2, file$2, 32, 2, 609);
     			add_location(input, file$2, 33, 2, 637);
     			add_location(div, file$2, 45, 2, 891);
-    			attr_dev(main, "class", "svelte-rb8mum");
+    			attr_dev(main, "class", "svelte-w62sd4");
     			add_location(main, file$2, 29, 0, 571);
     		},
     		l: function claim(nodes) {
